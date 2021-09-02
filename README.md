@@ -1,6 +1,6 @@
 # Spectral-Efficiency-Improvement-Project
 
-Feature Selection --> LASSO Regression
-Removing multicollinearity --> Variance Inflation Factor
-Clustering --> DBSCAN Clustering
-Building equation --> Polynomial Features
+Feature Selection --> LASSO Regression<br/>
+Removing multicollinearity --> Variance Inflation Factor<br/>
+Clustering --> DBSCAN Clustering<br/>
+Building equation --> Polynomial Features<br/>
